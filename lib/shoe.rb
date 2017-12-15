@@ -15,5 +15,3 @@ BRANDS = ["Uggs", "Rainbow", "Nike", "Nike"]
   end
 
 end
-
-end
